@@ -1,16 +1,16 @@
-## Hi there 👋
+## echo "Hello"; 👋
 
-<!--
-**userixxx/userixxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Битрикс](https://img.shields.io/badge/-Битрикс%201С-090909?style=for-the-badge&logo=1c-bitrix&logoColor=FF5C00)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/userixxx)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=userixxx)](https://github.com/anuraghazra/github-readme-stats)
