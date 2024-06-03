@@ -1,5 +1,7 @@
 ## echo "Hello"; 👋
 
+I'm a student at a local university, majoring in Information Technology. I'm a winner of hackathons and the captain of my team. 💻🚀
+
 ### Languages and Tools:
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=FF2D20)
